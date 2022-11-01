@@ -1,0 +1,36 @@
+.leht{
+  background-color: rosybrown;
+  margin: auto;
+  width: auto;
+  height: auto;
+  border: 3px solid green;
+}
+#hinnakiri{
+  color: blue;
+}
+.ülemineosa{
+  border: 3px solid green;
+  width: 100%;
+  height: auto;
+  margin-bottom: 100px;
+
+}
+.alumineosa{
+  background-color: white;
+  width: auto;
+  left: auto;
+  position: relative;
+  border: 3px solid green;
+  
+}
+#pilt1{
+  position: relative;
+  left: 40%;
+  top: 10px;
+  border: 3px solid green;
+}
+#päiselist{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}

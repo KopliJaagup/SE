@@ -1,2 +1,7 @@
 SDFfjsjkdsaf
+<<<<<<< HEAD
 TestTestMarkkus
+=======
+Siin on midagi uut
+
+>>>>>>> 09339245d2946ab064a9940ae97b96d09d087ac4
